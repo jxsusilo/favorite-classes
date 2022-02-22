@@ -1,0 +1,30 @@
+.class {
+    /*padding: 2em 0 2em 0;
+    margin: 0.1em 0.1em 0.1em 0.1em;
+    width: 8em;*/
+    flex-basis: 20em;
+    padding: 2em 2em 2em 2em;
+
+    background-color: #413C58;
+    border-radius: 1em;
+
+    font-size: 1.5em;
+    font-family: 'Roboto Serif', sans-serif;
+    color: #E7EFC5;
+}
+
+.title {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.department {
+    font-size: 1em;
+    font-weight: lighter;
+}
+
+.description {
+    font-size: 0.5em;
+    text-align: left;
+    line-height: 1.6em;
+}
